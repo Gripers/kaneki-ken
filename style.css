@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import url(fonts/bruno/style.css);
+@import url(fonts/graphite/style.css);
+
+body {
+    background: url(https://mir-s3-cdn-cf.behance.net/project_modules/fs/20c76930504509.562648941bad2.jpg) no-repeat;
+    background-size: 100%;
+}
+.heading {
+    margin-left: 50px;
+    font-size: 50px;
+    color: white;
+    font-family: 'Bruno JB';
+}
+.infa {
+    color: white;
+    font-family: 'Graphite';
+    font-size: 25px;
+    margin-left: 50px;
+}
+.bg-clip {
+    margin-left: 50px;
+    margin-top: 10px;
+}
